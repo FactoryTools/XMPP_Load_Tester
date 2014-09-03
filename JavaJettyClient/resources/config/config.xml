@@ -1,0 +1,18 @@
+<config>
+	<server>
+		<host>111.111.111.111</host>
+		<port>1111</port>
+		<bindservlet>servlet</bindservlet>
+	</server>
+	<client>
+		<login>sukeshlogin</login>
+		<password>sukeshpassword</password>
+		<overactivitydelay>2</overactivitydelay>
+		<chatduration>10</chatduration>
+		<chatsperuser>10</chatsperuser>
+	</client>
+	<load>
+		<threads>56</threads>
+		<delay>1000</delay>
+	</load>
+</config>
